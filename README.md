@@ -1,5 +1,6 @@
 # MWPhotoBrowser
-#### This is a MWPhotoBrowser fork that you can share remote videos (Leon Kim, 13. Sep. 2015)
+#### This is a MWPhotoBrowser fork that you can share remote videos
+#### (Leon Kim, 13. Sep. 2015)
 
 <!--[![CI Status](http://img.shields.io/travis/Michael Waterfall/MWPhotoBrowser.svg?style=flat)](https://travis-ci.org/Michael Waterfall/MWPhotoBrowser)-->
 [![Version](https://img.shields.io/cocoapods/v/MWPhotoBrowser.svg?style=flat)](http://cocoapods.org/pods/MWPhotoBrowser)
